@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blossfeld, H.-P. | Marcel Raab</title>
+    <link>/authors/blossfeld-h.-p./</link>
+      <atom:link href="/authors/blossfeld-h.-p./index.xml" rel="self" type="application/rss+xml" />
+    <description>Blossfeld, H.-P.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Blossfeld, H.-P.</title>
+      <link>/authors/blossfeld-h.-p./</link>
+    </image>
+    
+    <item>
+      <title>GlobalIndex - Ein soziologischer Ansatz zur Messung von Globalisierung</title>
+      <link>/publication/ruland2009/2009-01-01_ruland2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/ruland2009/2009-01-01_ruland2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Globalisierungsprozesse in modernen Gesellschaften</title>
+      <link>/publication/blossfeld2009/2009-01-01_blossfeld2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/blossfeld2009/2009-01-01_blossfeld2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GlobalIndex: A Sociological Approach to Globalization Measurement</title>
+      <link>/publication/raab2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/raab2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

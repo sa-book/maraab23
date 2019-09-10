@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Skopek, J. | Marcel Raab</title>
+    <link>/authors/skopek-j./</link>
+      <atom:link href="/authors/skopek-j./index.xml" rel="self" type="application/rss+xml" />
+    <description>Skopek, J.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Skopek, J.</title>
+      <link>/authors/skopek-j./</link>
+    </image>
+    
+    <item>
+      <title>NEPS Data Manual. Curricular Reform Study in Thuringia (TH). SUF Version 1.0.0</title>
+      <link>/publication/zielonka2012/2012-01-01_zielonka2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/zielonka2012/2012-01-01_zielonka2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NEPS Data Manual. Starting Cohort 6: Adult Education and Lifelong Learning</title>
+      <link>/publication/leopold2011a/2011-01-01_leopold2011a/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/leopold2011a/2011-01-01_leopold2011a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

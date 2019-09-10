@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Struffolino, E. | Marcel Raab</title>
+    <link>/authors/struffolino-e./</link>
+      <atom:link href="/authors/struffolino-e./index.xml" rel="self" type="application/rss+xml" />
+    <description>Struffolino, E.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Struffolino, E.</title>
+      <link>/authors/struffolino-e./</link>
+    </image>
+    
+    <item>
+      <title>The Heterogeneity of Partnership Trajectories to Childlessness in Germany</title>
+      <link>/publication/raab2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/raab2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
