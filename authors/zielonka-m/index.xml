@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zielonka, M. | Marcel Raab</title>
+    <link>/authors/zielonka-m./</link>
+      <atom:link href="/authors/zielonka-m./index.xml" rel="self" type="application/rss+xml" />
+    <description>Zielonka, M.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Zielonka, M.</title>
+      <link>/authors/zielonka-m./</link>
+    </image>
+    
+    <item>
+      <title>NEPS Data Manual. Curricular Reform Study in Thuringia (TH). SUF Version 1.0.0</title>
+      <link>/publication/zielonka2012/2012-01-01_zielonka2012/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/zielonka2012/2012-01-01_zielonka2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

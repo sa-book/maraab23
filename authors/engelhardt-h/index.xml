@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Engelhardt, H. | Marcel Raab</title>
+    <link>/authors/engelhardt-h./</link>
+      <atom:link href="/authors/engelhardt-h./index.xml" rel="self" type="application/rss+xml" />
+    <description>Engelhardt, H.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Engelhardt, H.</title>
+      <link>/authors/engelhardt-h./</link>
+    </image>
+    
+    <item>
+      <title>The Transition to Parent Care: Costs, Commitments, and Caregiver Selection Among Children</title>
+      <link>/publication/leopold2014/2014-01-01_leopold2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/leopold2014/2014-01-01_leopold2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
